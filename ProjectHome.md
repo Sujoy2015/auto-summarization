@@ -1,0 +1,1 @@
+Auto-Summarization project aims at summarizing the text
